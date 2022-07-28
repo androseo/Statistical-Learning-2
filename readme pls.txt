@@ -1,0 +1,1 @@
+Probé con más cadas en la red neuronal y disminuyó la predicción. La mas efectiva fue con 2 capas y 2 neuronas con función de activación ReLu
